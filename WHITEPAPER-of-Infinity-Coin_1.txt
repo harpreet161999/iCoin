@@ -1,0 +1,120 @@
+WHITEPAPER of Infinity Coin (iCoin)
+
+Table of Content
+
+1. Disclaimer
+
+2. Abstract
+
+3. Introduction to Infinity Coin
+
+4. iCoin Supply and Specifications
+
+5. What is iCoin?
+
+6. How does iCoin Work?
+
+   6.1. Proof-of-Stake (PoS) Mechanism
+   6.2. Staking Rewards
+   6.3. Transaction Processing
+
+7. About Infinity Coin
+
+8. Use Cases of iCoin
+
+   8.1. Digital Payments
+   8.2. Store of Value
+   8.3. Staking and Earning Rewards
+
+9. iCoin Wallets
+
+   9.1. Web Wallets
+   9.2. Desktop Wallets
+   9.3. Mobile Wallets
+   9.4. Hardware Wallets
+
+10. Roadmap
+
+11. Partnerships
+
+12. Conclusion
+
+13. Risks and Disclaimer
+
+14. Resources and Further Reading
+
+ Infinity Coin (iCoin): Your Path to Limitless Possibilities
+
+ Disclaimer
+
+Throughout this document, you will find comprehensive information on the Infinity Coin (iCoin) platform's operational services. iCoin may not be provided or used without our consent or permission. All information in this document is provided for content-sharing purposes only. As such, users should exercise caution in their actions related to the publication of this document. This document does not provide legal, financial, tax, or other advice and should be regarded as a recommendation rather than an investment policy.
+
+Infinity Coin strongly encourages you to seek out a reliable and appropriate team of professionals to assist you in making investment decisions. The iCoin token may be subject to regulatory and research conditions. If you are considering acquiring iCoin tokens, you should carefully evaluate the risks and speculations associated with the cryptocurrency world. Additionally, Infinity Coin and its equivalents will not be liable in any way for any losses or damages resulting from changes in the blockchain technology in the crypto industry, whether directly or indirectly. Moreover, Infinity Coin's White Paper does not express any intent to bail out the company.
+
+ Abstract
+
+In today's rapidly evolving cryptocurrency landscape, the Infinity Coin (iCoin) emerges as a beacon of opportunity. With a total supply of 250,000,000 tokens, iCoin offers a gateway to a world of limitless possibilities. This document provides a comprehensive overview of iCoin, its features, and the opportunities it presents.
+
+ Introduction to Infinity Coin
+
+Infinity Coin (iCoin) is a digital cryptocurrency that operates on a decentralized blockchain network. It is designed to provide users with a secure, transparent, and efficient means of conducting transactions, making investments, and participating in various blockchain-based activities. iCoin stands at the forefront of the crypto revolution, offering a gateway to the digital economy.
+
+ What is iCoin?
+
+iCoin is more than just a digital asset; it represents a transformative force in the world of finance and technology. It is a decentralized cryptocurrency that leverages blockchain technology to enable fast, secure, and borderless transactions. With a total supply of 250,000,000 tokens, iCoin is positioned to play a pivotal role in reshaping the financial landscape.
+
+ How does iCoin Work?
+
+iCoin operates on a permissionless blockchain, allowing users to transact without the need for intermediaries. It relies on a consensus mechanism to validate and record transactions, ensuring the integrity and security of the network. Whether you're a trader, investor, or technology enthusiast, iCoin provides a versatile platform for various use cases.
+
+ About Infinity Coin
+
+Infinity Coin is more than just a cryptocurrency; it represents a community-driven ecosystem built on the principles of decentralization, security, and innovation. Our mission is to empower users to explore the limitless potential of blockchain technology, opening doors to financial freedom and technological advancement.
+
+ iCoin's Total Supply: 250,000,000 Tokens
+
+iCoin boasts a total supply of 250,000,000 tokens, making it a valuable digital asset in the crypto market. With a limited supply, iCoin is designed to maintain its scarcity, potentially driving its value over time.
+
+ Invest in Infinity Coin (iCoin)
+
+Infinity Coin (iCoin) presents an exciting opportunity for investors seeking exposure to the cryptocurrency market. As a limited-supply digital asset, iCoin offers the potential for long-term growth and value appreciation. By acquiring iCoin, you become part of a vibrant ecosystem with limitless possibilities.
+
+ Join the Infinity Coin Revolution
+
+Unlock the door to a world of limitless possibilities with Infinity Coin (iCoin). Embrace the future of finance, technology, and innovation. Get involved, invest wisely, and join the iCoin revolution today.
+
+ Tokenomics
+
+- Private Sale: 30% instant release, the rest 70% will be unlocked monthly by 5%.
+- Public Sale:
+  - Round 1 - 40% instant release, the rest 60% will be unlocked monthly by 5%.
+  - Round 2 - 40% instant release, the rest 60% will be unlocked monthly by 5%.
+  - Round 3 - 50% instant release, the rest 50% will be unlocked monthly by 6%.
+- Token Team: Tokens will be fully locked until January 2025 (i.e., 2 years) and will be released monthly by 1%.
+- Marketing Token: Released after the presale, 1% monthly.
+- Advisor: After ICO, 1% release monthly.
+- Reserved: Tokens will be fully locked until January 2025 (i.e., 2 years) and will be released monthly by 5% for upcoming development.
+- R&D: Tokens will be fully locked by smart contract and will be released whenever required.
+
+ ICO Rounds
+
+- Private Sale
+- Public Sale
+  - Round 1
+  - Round 2
+  - Round 3
+
+ Roadmap
+
+Our journey towards limitless possibilities is marked by milestones and achievements. Take a glimpse into our roadmap, where we outline our plans for the future.
+
+ Partners
+
+We believe in the power of collaboration. Our strategic partnerships drive innovation and expand our reach in the crypto world. Explore our partnerships and join us on this exciting journey.
+
+ Join the Infinity Coin Community
+
+Infinity Coin (iCoin) is more than just a cryptocurrency; it's a community of like-minded individuals who believe in the potential of blockchain technology. Join our community, stay informed, and be part of the infinite possibilities that lie ahead.
+
+*Note: The content provided here is a sample representation for Infinity Coin (iCoin) and should be customized and reviewed as per your specific requirements before final use.*
+
